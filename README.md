@@ -2,7 +2,7 @@
 <h3 align="center">Creating Private Respos.</h3>
 
 - Public Respo's
-  [YAGPDB-CC](https://github.com/ThatBathroom/YAGPDB-CC)
+    [YAGPDB-CC](https://github.com/ThatBathroom/YAGPDB-CC)
 
 - Contact me [Discord](https://discord.com/users/472118120908324895)
 
