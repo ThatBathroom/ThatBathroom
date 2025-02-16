@@ -1,7 +1,7 @@
 <h1 align="center">Welcome, Im ThatBathroom.</h1>
 <h3 align="center">Creating Private Repos.</h3>
 
--    Public Respo's
+-    Public Repo's
     [YAGPDB-CC](https://github.com/ThatBathroom/YAGPDB-CC)
 
 <h3 align="left">Connect with me:</h3>
